@@ -1,4 +1,4 @@
-                                                               **Portfólio de Lógica de Programação**
+                                                   **Portfólio de Lógica de Programação**
 
  🧑🏻‍💻Este portfólio apresenta minha jornada e habilidades desenvolvidas na área de lógica de programação. Nele, você encontrará uma coleção de exercícios, projetos e desafios que abordam conceitos fundamentais como:
 
